@@ -8,8 +8,8 @@ export const CardList = (props) => {
   
   return (
     <div className="card_list">
-      {props.dinos.map((dino) => (
-        <Card key={dino.id}  dino={dino}/>
+      {props.robots.map((robot) => (
+        <Card key={robot.id}  robot={robot}/>
       ))}
     </div>
   );
