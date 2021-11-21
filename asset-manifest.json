@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robot-office/static/css/main.3e5aa710.chunk.css",
+    "main.js": "/robot-office/static/js/main.00894d9f.chunk.js",
+    "main.js.map": "/robot-office/static/js/main.00894d9f.chunk.js.map",
+    "runtime-main.js": "/robot-office/static/js/runtime-main.e2f4b9e5.js",
+    "runtime-main.js.map": "/robot-office/static/js/runtime-main.e2f4b9e5.js.map",
+    "static/js/2.874489aa.chunk.js": "/robot-office/static/js/2.874489aa.chunk.js",
+    "static/js/2.874489aa.chunk.js.map": "/robot-office/static/js/2.874489aa.chunk.js.map",
+    "static/js/3.09c89232.chunk.js": "/robot-office/static/js/3.09c89232.chunk.js",
+    "static/js/3.09c89232.chunk.js.map": "/robot-office/static/js/3.09c89232.chunk.js.map",
+    "index.html": "/robot-office/index.html",
+    "static/css/main.3e5aa710.chunk.css.map": "/robot-office/static/css/main.3e5aa710.chunk.css.map",
+    "static/js/2.874489aa.chunk.js.LICENSE.txt": "/robot-office/static/js/2.874489aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f4b9e5.js",
+    "static/js/2.874489aa.chunk.js",
+    "static/css/main.3e5aa710.chunk.css",
+    "static/js/main.00894d9f.chunk.js"
+  ]
+}
