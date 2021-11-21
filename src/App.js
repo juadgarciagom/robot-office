@@ -26,6 +26,7 @@ class App extends Component {
     );
     return (
       <div className="App">
+        <h1>Robot Office</h1>
         <SearchBox 
           placeholder='Search Robots'
           search={(e) => this.setState({ searchField: e.target.value })}
